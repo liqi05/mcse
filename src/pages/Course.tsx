@@ -4,6 +4,8 @@ import { Helmet } from 'react-helmet-async';
 import ImageHTML from '../../assets/html.jpg';
 import ImageCSS from '../../assets/css.jpeg';
 import ImageJS from '../../assets/js.jpg';
+import ImageSL from '../../assets/selflearn.jpg';
+import ImageKN from '../../assets/knowledge.jpg';
 
 function Course() {
   return (
