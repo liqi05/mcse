@@ -6,7 +6,32 @@
 
 @font-face {
   font-family: 'MiSans';
+  src: url('/assets/fonts/MiSans-Light.ttf') format('truetype');
+  font-weight: light;
+}
+
+@font-face {
+  font-family: 'MiSans';
   src: url('/assets/fonts/MiSans-Regular.ttf') format('truetype');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'MiSans';
+  src: url('/assets/fonts/MiSans-Medium.ttf') format('truetype');
+  font-weight: medium;
+}
+
+@font-face {
+  font-family: 'MiSans';
+  src: url('/assets/fonts/MiSans-SemiBold.ttf') format('truetype');
+  font-weight: semibold;
+}
+
+@font-face {
+  font-family: 'MiSans';
+  src: url('/assets/fonts/MiSans-Bold.ttf') format('truetype');
+  font-weight: bold;
 }
 
 #title {
